@@ -6,13 +6,13 @@
 - [x] .gitignore에 .env 포함 확인
 - [x] .env.example 파일 생성 완료
 - [x] .agents/skills/project-rules.mdc 작성 완료
-- [ ] docs/AI_TA_RULES.md 작성 완료
-- [ ] docs/PROMPTS.md 바이브코딩 규칙 3개 이상 작성
-- [ ] docs/CHECKLIST.md 작성 완료
-- [ ] docs/EVAL_QUESTIONS.md 작성 완료
-- [ ] docs/PROJECT_PLAN.md 작성 완료
-- [ ] GitHub Repository 생성 및 초기 커밋 완료
-- [ ] 피어그룹 멤버 이름·GitHub URL 기록 완료
+- [x] docs/AI_TA_RULES.md 작성 완료
+- [x] docs/PROMPTS.md 바이브코딩 규칙 3개 이상 작성
+- [x] docs/CHECKLIST.md 작성 완료
+- [x] docs/EVAL_QUESTIONS.md 작성 완료
+- [x] docs/PROJECT_PLAN.md 작성 완료
+- [x] GitHub Repository 생성 및 초기 커밋 완료
+- [x] 피어그룹 멤버 이름·GitHub URL 기록 완료
 
 
 ## 2일차
